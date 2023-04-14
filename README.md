@@ -77,14 +77,14 @@ terminal:~$`sudo systemctl restart cnode.service`
 
 [^1]: https://github.com/input-output-hk/cardano-node/releases/tag/1.35.6
 
-https://github.com/input-output-hk/cardano-node/blob/master/doc/getting-started/understanding-config-files.md
+[^2]: https://github.com/input-output-hk/cardano-node/blob/master/doc/getting-started/understanding-config-files.md
 
-https://book.world.dev.cardano.org/environments.html
+[^3]: https://book.world.dev.cardano.org/environments.html
 
-https://docs.cardano.org/explore-cardano/cardano-network/p2p-networking
+[^4]: https://docs.cardano.org/explore-cardano/cardano-network/p2p-networking
 
-https://iohk.io/en/blog/posts/2023/03/16/dynamic-p2p-is-coming-to-cardano/
+[^5]: https://iohk.io/en/blog/posts/2023/03/16/dynamic-p2p-is-coming-to-cardano/
 
-https://forum.cardano.org/t/docs-and-procedures-for-p2p-how-to-run-p2p/107087/12
+[^6]: https://forum.cardano.org/t/docs-and-procedures-for-p2p-how-to-run-p2p/107087/12
 
-https://cardano-community.github.io/guild-operators/Scripts/topologyupdater/
+[^7]: https://cardano-community.github.io/guild-operators/Scripts/topologyupdater/
