@@ -4,10 +4,6 @@ The below instruction covers how to deploy P2P functionality to Cardano relay no
 
 ## P2P Configuration
 
-terminal:~$ `cd $CNODE_HOME/scripts`
-
-terminal:~$ `chmod -x topologyUpdater.sh`
-
 terminal:~$ `cd $CNODE_HOME/files`
 
 terminal:~$ `mv topology.json topology.json.bk`
@@ -48,6 +44,10 @@ terminal:~$ `vi config.json`
 `"EnableP2P": true,`
 
 ## Disable legacy Topology-Updater functionality:
+
+terminal:~$ `cd $CNODE_HOME/scripts`
+
+terminal:~$ `chmod -x topologyUpdater.sh`
 
 terminal:~$ `sudo systemctl stop cnode-tu-fetch.service`
 
