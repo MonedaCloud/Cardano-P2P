@@ -26,7 +26,7 @@ terminal:~$ `vi topology.json`
         },
         {
             "address": "SecondRelayIP",
-            "port": 6001
+            "port": 6002
         }
       ],
       "advertise": false,
