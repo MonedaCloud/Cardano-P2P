@@ -39,9 +39,9 @@ terminal:~$ `vi topology.json`
   ],
   ```
 
-terminal:~$ `cd $CNODE_HOME/files`
-
 ### Add P2P flag configuration to the config.json cofiguration file:
+
+terminal:~$ `cd $CNODE_HOME/files`
 
 terminal:~$ `vi config.json`
 
