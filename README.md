@@ -12,10 +12,6 @@ terminal:~$ `mv topology.json topology.json.bk`
 
 terminal:~$ `wget https://book.world.dev.cardano.org/environments/mainnet/topology-p2p.json`
 
-OR
-
-terminal:~$ `wget https://github.com/MonedaCloud/Cardano-P2P/blob/main/topology-p2p.json`
-
 terminal:~$ `mv topology-p2p.json topology.json`
 
 ### Add block producer and second relay to the localRoots section:
