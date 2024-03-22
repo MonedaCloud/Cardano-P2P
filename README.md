@@ -2,8 +2,6 @@
 
 The below instruction covers how to deploy P2P functionality to Cardano relay nodes and disable legacy manual Topology-Updater functionality.
 
-**IMPORTANT**: P2P on mainnet is only intended to be ran on a single relay at this time. (v1.35.7) Continue to run any other relays with P2P disabled using the legacy topology.
-
 ## P2P Configuration
 
 terminal:~$ `cd $CNODE_HOME/files`
